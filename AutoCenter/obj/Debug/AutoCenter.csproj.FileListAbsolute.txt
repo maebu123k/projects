@@ -1,0 +1,10 @@
+C:\Users\Patrick\source\AutoCenter\bin\Debug\AutoCenter.exe.config
+C:\Users\Patrick\source\AutoCenter\bin\Debug\AutoCenter.exe
+C:\Users\Patrick\source\AutoCenter\bin\Debug\AutoCenter.pdb
+C:\Users\Patrick\source\AutoCenter\obj\Debug\AutoCenter.csprojAssemblyReference.cache
+C:\Users\Patrick\source\AutoCenter\obj\Debug\AutoCenter.Form1.resources
+C:\Users\Patrick\source\AutoCenter\obj\Debug\AutoCenter.Properties.Resources.resources
+C:\Users\Patrick\source\AutoCenter\obj\Debug\AutoCenter.csproj.GenerateResource.cache
+C:\Users\Patrick\source\AutoCenter\obj\Debug\AutoCenter.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\AutoCenter\obj\Debug\AutoCenter.exe
+C:\Users\Patrick\source\AutoCenter\obj\Debug\AutoCenter.pdb
