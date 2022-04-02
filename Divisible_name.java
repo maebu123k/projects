@@ -23,16 +23,14 @@ public class Divisible_name
 	   //Continuously asks the user for input until a valid input is provided
 	   while (flValidInput == false) {
 		   System.out.println ("\nEnter a positive number or enter '99999' to end the program: ");
-		   
-
-		   
+		 
 		   //Try block
 		   try {
-			   
-			   //Added code to read user and place in a string variable
-			   //String input = In.readLine();
-			   //Convert user input to integer
+			    //Read input as integer
 			   numberIn = Integer.parseInt(In.readLine());
+			   //If input is less than 0, throw a number format exception
+			   if (numberIn < 0)
+				throw new NumberFormatException();
 			   
 			   //Set validation flag to true if no error in parsing
 			   flValidInput = true;
