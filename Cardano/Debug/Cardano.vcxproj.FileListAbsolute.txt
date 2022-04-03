@@ -1,0 +1,2 @@
+C:\Users\Patrick\source\Cardano\Debug\Cardano.exe
+C:\Users\Patrick\source\Cardano\Debug\Cardano.pdb
