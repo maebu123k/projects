@@ -1,0 +1,2 @@
+C:\Users\Patrick\source\ImportData\Debug\ImportData.exe
+C:\Users\Patrick\source\ImportData\Debug\ImportData.pdb
