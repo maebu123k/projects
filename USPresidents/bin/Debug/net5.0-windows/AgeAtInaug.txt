@@ -1,0 +1,45 @@
+Donald J. Trump,70
+Theodore Roosevelt,42
+John F. Kennedy,43
+Ulysses S. Grant,46
+Bill Clinton,46
+Grover Cleveland,55
+Barack Obama,47
+Franklin Pierce,48
+George W. Bush,54
+George H. W. Bush,64
+Ronald Reagan,69
+Jimmy Carter,52
+Gerald R. Ford,61
+Richard M. Nixon,56
+Lyndon B. Johnson,55
+Dwight D. Eisenhower,62
+Harry S. Truman,60
+Franklin D. Roosevelt,51
+Herbert Hoover,54
+Calvin Coolidge,51
+Warren G. Harding,55
+Woodrow Wilson,56
+William H. Taft,51
+William McKinley,54
+Benjamin Harrison,55
+Grover Cleveland,47
+Chester A. Arthur,51
+James A. Garfield,49
+Rutherford B. Hayes,54
+Andrew Johnson,56
+Abraham Lincoln,52
+James Buchanan,65
+Millard Fillmore,50
+Zachary Taylor,64
+James K. Polk,49
+John Tyler,51
+William Henry Harrison,68
+Martin Van Buren,54
+Andrew Jackson,61
+John Quincy Adams,57
+James Monroe,58
+James Madison,57
+Thomas Jefferson,57
+John Adams,61
+George Washington,57

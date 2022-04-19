@@ -1,0 +1,8 @@
+Donald Trump,70
+Theodore Roosevelt,42
+John Kennedy,43
+Ulysses Grant,46
+Bill Clinton,46
+Grover Cleveland,47
+Barack Obama,47
+Franklin Pierce,48
