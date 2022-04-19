@@ -72,10 +72,12 @@ public class PigLatin {
 	    try {
 	        FileWriter myWriter = new FileWriter("out.txt");
 	        //LOOPS THROUGH THE OUTPUT ARRAY AND WRITES ITS CONTENTS IN OUT.TXT
-	        for (int x = 0; x < input_count; x++)
+	        for (int x = 0; x < input_count; x++) {
 	        	myWriter.write(output[x] + "\n");
+	        	System.out.println(output[x]);
+	        }
 	        
-	        System.out.println("Successfully wrote to the file.");
+	        //System.out.println("Successfully wrote to the file.");
 	        myWriter.close();
 	    //DISPLAYS AN ERROR MESSAGE IN CASE THERE IS AN ERROR IN THE OUTPUT FILE
 	      } catch (IOException e) {
@@ -84,4 +86,3 @@ public class PigLatin {
 	      }
 	}
 }
-
