@@ -1,0 +1,8 @@
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\bin\Debug\Array3by3.exe.config
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\bin\Debug\Array3by3.exe
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\bin\Debug\Array3by3.pdb
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\obj\Debug\Array3by3.csproj.AssemblyReference.cache
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\obj\Debug\Array3by3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\obj\Debug\Array3by3.csproj.CoreCompileInputs.cache
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\obj\Debug\Array3by3.exe
+C:\Users\Kean Miguel Pogi\source\repos\Array3by3\Array3by3\obj\Debug\Array3by3.pdb
