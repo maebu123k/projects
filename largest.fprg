@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="MADMan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-02 04:08:53 PM"/>
+        <attribute name="created" value="TUFETWFuO01BRE1BQ0hJTkVNT0JJTDsyMDIyLTA1LTAyOzAzOjQ1OjI0IFBNOzI4NTE="/>
+        <attribute name="edited" value="TUFETWFuO01BRE1BQ0hJTkVNT0JJTDsyMDIyLTA1LTAyOzA0OjA4OjUzIFBNOzE7Mjk2MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="howMany" type="Integer" array="False" size=""/>
+            <input variable="howMany"/>
+            <declare name="numbers" type="Real" array="True" size="howMany"/>
+            <declare name="largest" type="Real" array="False" size=""/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <input variable="numbers[0]"/>
+            <assign variable="largest" expression="numbers[0]"/>
+            <for variable="i" start="1" end="howMany-1" direction="inc" step="1">
+                <input variable="numbers[i]"/>
+                <if expression="numbers[i] &gt; largest">
+                    <then>
+                        <assign variable="largest" expression="numbers[i]"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot;Largest is &quot; &amp; largest" newline="True"/>
+            <for variable="i" start="0" end="howMany-1" direction="inc" step="1">
+                <output expression="Largest - numbers[i]" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
