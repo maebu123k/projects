@@ -1,0 +1,11 @@
+C:\Users\Patrick\source\repos\KidsCalculator\bin\Debug\KidsCalculator.exe.config
+C:\Users\Patrick\source\repos\KidsCalculator\bin\Debug\KidsCalculator.exe
+C:\Users\Patrick\source\repos\KidsCalculator\bin\Debug\KidsCalculator.pdb
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.Form1.resources
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.Properties.Resources.resources
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.exe
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.pdb
+C:\Users\Patrick\source\repos\KidsCalculator\obj\Debug\KidsCalculator.Form2.resources
